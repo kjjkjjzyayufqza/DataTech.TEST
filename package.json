@@ -6,11 +6,13 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
+    "start:net": "vite --host",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ant-design/pro-components": "^2.6.7",
     "antd": "^5.7.1",
     "axios": "^1.4.0",
     "localforage": "^1.10.0",
