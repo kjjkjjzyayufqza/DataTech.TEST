@@ -19,6 +19,7 @@ npm i
 ```bash
 npm start
 ```
+
 ### Frameworks
 
 - [React.js](https://react.dev/)
@@ -27,9 +28,9 @@ npm start
 
 ## Screen
 
-<img alt="Precedent – Building blocks for your Next project" src="demo/1.png" width="500">
+<img alt="Precedent – Building blocks for your Next project" src="demo/1.png" >
 
-<img alt="Precedent – Building blocks for your Next project" src="demo/2.png" width="500">
+<img alt="Precedent – Building blocks for your Next project" src="demo/2.png" >
 
 <img alt="Precedent – Building blocks for your Next project" src="demo/3.png" width="300">
 
