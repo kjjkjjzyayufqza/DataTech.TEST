@@ -74,7 +74,7 @@ function App () {
   ]
 
   return (
-    <div className='md:container md:mx-auto'>
+    <div className='md:container md:mx-auto py-10'>
       <ConfigProvider locale={enUS}>
         <StyleProvider hashPriority='high'>
           <div className=''>
@@ -94,7 +94,9 @@ function App () {
                 pageSize: 5
               }}
               dateFormatter='string'
-              headerTitle={<div className='text-xl font-bold'>Fake User List</div>}
+              headerTitle={
+                <div className='text-xl font-bold'>Fake User List</div>
+              }
               toolBarRender={() => []}
               scroll={{
                 x: 'max-content'
