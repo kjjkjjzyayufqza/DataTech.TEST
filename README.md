@@ -1,5 +1,3 @@
-# DataTech.TEST
-
 <a href="https://data-tech-test.vercel.app/">
   <h1 align="center">DataTech.TEST</h1>
 </a>
